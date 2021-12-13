@@ -1,1 +1,5 @@
-# hello
+package main
+
+func main() {
+
+}
